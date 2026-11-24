@@ -1,4 +1,4 @@
-# Garrison Automation Client
+# Remote Garrison Client
 
 For the Roblox game Idle Mafia Game
 
